@@ -1,0 +1,32 @@
+# BUSCO version is: 5.8.2 
+# The lineage dataset is: metazoa_odb10 (Creation date: 2024-01-08, number of genomes: 65, number of BUSCOs: 954)
+# Summarized benchmarking in BUSCO notation for file /flash/LuscombeU/kian-murray/BUSCO/BAR12_primary_assembly.fasta
+# BUSCO was run in mode: euk_genome_min
+# Gene predictor used: miniprot
+
+	***** Results: *****
+
+	C:61.0%[S:59.5%,D:1.5%],F:1.9%,M:37.1%,n:954,E:12.2%	   
+	582	Complete BUSCOs (C)	(of which 71 contain internal stop codons)		   
+	568	Complete and single-copy BUSCOs (S)	   
+	14	Complete and duplicated BUSCOs (D)	   
+	18	Fragmented BUSCOs (F)			   
+	354	Missing BUSCOs (M)			   
+	954	Total BUSCO groups searched		   
+
+Assembly Statistics:
+	5	Number of scaffolds
+	7	Number of contigs
+	53757074	Total length
+	0.004%	Percent gaps
+	11 MB	Scaffold N50
+	9 MB	Contigs N50
+
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	bbtools: None
+	miniprot_index: 0.13-r248
+	miniprot_align: 0.13-r248
+	python: sys.version_info(major=3, minor=10, micro=15, releaselevel='final', serial=0)
+	busco: 5.8.2
