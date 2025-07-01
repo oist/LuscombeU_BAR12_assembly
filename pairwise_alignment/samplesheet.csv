@@ -1,0 +1,5 @@
+sample,fasta
+BAR12_primary,../assemblies/BAR12_primary_assembly_v1.0.0.fa
+BAR12_alt,../assemblies/BAR12_alternative_assembly_v1.0.0.fa
+HAP1,../contigs/bar12_hap1_contigs/hap1_contigs.fa
+HAP2,../contigs/bar12_hap2_contigs/hap2_contigs.fa
