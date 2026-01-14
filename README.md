@@ -28,7 +28,7 @@ chrMT was not detected using BLAST of *O. dioica* Cox1.
 - h1tg000001l.fasta - CCCTAA at start
 This is reversed from Bar2_p4.
 
-### PAR_alt 
+### PAR
 short
 - h2tg000010l.fasta reversed (following alternative assembly)
 - h2tg000018l.fasta (a bit unsure)
@@ -36,44 +36,40 @@ long
 - h2tg000011l.fasta (no telomeres)
 - h2tg000007l.fasta reversed (no telomeres)
 
-long
-- h1tg000005l.fasta reversed (telomeres in both ends, so unsure about orientation)
-
-
 ### chr1 
 short and long (fused)
 - h1tg000002l.fasta - telomere at start (chr1 short and long arm have likely fused in the Barcelona culture as the same phenomenon is found in ref Bar2 as well as Bar12)
 
 ### chr2
-long
-- h1tg000004l.fasta - telomeres on both ends (short TTAGGG)
 short
 - h1tg000008l.fasta reversed - telomeres on both ends
+long
+- h1tg000004l.fasta - telomeres on both ends (short TTAGGG)
 
 Huge inversion between haplotypes, don't know if it is biological or not.
 
 ## Alternative assembly
 
-### PAR
+### PAR_alt
 short
 - h1tg000009l.fasta (telomeres at the start)
 - h1tg000010l.fasta (unsure about orientation)
+long
 - h1tg000005l.fasta reversed
 
 ### chr1_alt
 short
 - h2tg000016l.fasta (left telomere)
 - h2tg000006l.fasta (no telomere)
-
 long
 - h2tg000004l.fasta (left telomere, which may be wrong?)
 
+Unsure about the position of the centromere, putative short and long arms are separated by a 100N gap
 
 ### chr2_alt
 short
 - h2tg000003l.fasta (left telomere)
-
+- h2tg000014l.fasta
 long
 - h2tg000001l.fasta (no telomere)
 
-## Tools used in this assembly
