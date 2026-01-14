@@ -32,6 +32,7 @@ This is reversed from Bar2_p4.
 short
 - h2tg000010l.fasta reversed (following alternative assembly)
 - h2tg000018l.fasta (a bit unsure)
+
 long
 - h2tg000011l.fasta (no telomeres)
 - h2tg000007l.fasta reversed (no telomeres)
@@ -43,6 +44,7 @@ short and long (fused)
 ### chr2
 short
 - h1tg000008l.fasta reversed - telomeres on both ends
+
 long
 - h1tg000004l.fasta - telomeres on both ends (short TTAGGG)
 
@@ -54,6 +56,7 @@ Huge inversion between haplotypes, don't know if it is biological or not.
 short
 - h1tg000009l.fasta (telomeres at the start)
 - h1tg000010l.fasta (unsure about orientation)
+
 long
 - h1tg000005l.fasta reversed
 
@@ -61,6 +64,7 @@ long
 short
 - h2tg000016l.fasta (left telomere)
 - h2tg000006l.fasta (no telomere)
+
 long
 - h2tg000004l.fasta (left telomere, which may be wrong?)
 
@@ -70,6 +74,7 @@ Unsure about the position of the centromere, putative short and long arms are se
 short
 - h2tg000003l.fasta (left telomere)
 - h2tg000014l.fasta
+
 long
 - h2tg000001l.fasta (no telomere)
 
